@@ -7,7 +7,7 @@ My GitHub is my safe corner of the internet where I learn & showcase my skills i
 
 ## Current Project <img src="assets/yay.webp"  width="32" height="32">
 
-Right now, I'm working on an ✨ AI outfit recommender ✨, that uses image recognition to analyse your wardrobe & recommend the optimal outfit based on your style and weather conditions.
+Right now, I'm working on an ✨ AI outfit recommender ✨, that uses image recognition to analyse your wardrobe & recommend the optimal outfit based on your style and weather conditions. Check it out [here](https://github.com/Arunteja27/outfit-recommender)!
 
 ## Check out my Socials! <img src="assets/socials.webp"  width="32" height="32">
 
