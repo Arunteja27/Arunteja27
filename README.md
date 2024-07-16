@@ -2,7 +2,7 @@
 
 I'm Arun, a rising 3rd year Computer Science major @ CarletonU. 💻
 
-My GitHub is my safe corner of the internet where I learn & showcase my skills in CS through fun and interesting projects! Feel free to peruse! 😊
+My GitHub is my corner of the internet where I learn & showcase my skills in CS through fun and interesting projects! Feel free to peruse! 😊
 
 
 ## Current Project <img src="assets/yay.webp"  width="32" height="32">
