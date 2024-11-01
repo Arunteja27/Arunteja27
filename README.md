@@ -1,6 +1,6 @@
 # Welcome to my GitHub! <img src="assets/pika-wave.webp"  width="32" height="32">
 
-I'm Arun, a rising 3rd year Computer Science major @ CarletonU. 💻
+I'm Arun, a 4th year Computer Science major @ CarletonU. 💻
 
 My GitHub is my corner of the internet where I learn & showcase my skills in CS through fun and interesting projects! Feel free to peruse! 😊
 
