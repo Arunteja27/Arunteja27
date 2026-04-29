@@ -4,7 +4,7 @@ I'm Arun, a final year Computer Science major @ CarletonU. 💻
 
 ## Current Project <img src="assets/yay.webp"  width="32" height="32">
 
-Right now, I'm working on [Vibe-ify](https://github.com/Arunteja27/Vibe-ify), a low-latency C++ audio engine with real-time DSP effects, FFT spectrum analysis, YouTube integration, and a REST API. 
+Right now, I'm working on [RepoLens AI](https://github.com/Arunteja27/repolens-ai), a Cloud Run-deployed RAG assistant for GitHub repos with hybrid search, citation-grounded answers, evals, and observability. 
 ## Check out my Socials! <img src="assets/socials.webp"  width="32" height="32">
 
 <a href="https://www.linkedin.com/in/arunkuchibhatla/" target="_blank">![LinkedIn](https://img.shields.io/badge/Arun%20Kuchibhatla-blue?style=for-the-badge&logo=linkedin&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farunkuchibhatla%2F)</a>
